@@ -7,7 +7,7 @@ package programacion_interfaces;
 
 /**
  *
- * @author Mireille Betancourt
+ * @author Jesus
  */
 public abstract class ClaseAbstracta {
     public abstract void metodoAbstracto();
