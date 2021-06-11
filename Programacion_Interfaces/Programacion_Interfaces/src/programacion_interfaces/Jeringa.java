@@ -7,7 +7,7 @@ package programacion_interfaces;
 
 /**
  *
- * @author Mireille Betancourt
+ * @author Jesus
  */
 public class Jeringa implements Herramienta {
     
